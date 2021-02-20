@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="e1fdcd03-dfb2-4587-8fba-1012e8496c89" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:7003/WcfInvokeDemo.PersonService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="WcfInvokeDemo.xsd" MetadataType="Schema" ID="a5015238-9e56-4d06-953e-9c84280a4744" SourceId="1" SourceUrl="http://larissa-pc:7003/WcfInvokeDemo.PersonService.svc?xsd=xsd1" />
+    <MetadataFile FileName="WcfInvokeDemo1.xsd" MetadataType="Schema" ID="b4c7b9b0-23ce-420a-a3a1-9820929a5f4f" SourceId="1" SourceUrl="http://larissa-pc:7003/WcfInvokeDemo.PersonService.svc?xsd=xsd0" />
+    <MetadataFile FileName="WcfInvokeDemo.disco" MetadataType="Disco" ID="3c6b2a0d-c959-46b3-b877-b2c9783a33b5" SourceId="1" SourceUrl="http://larissa-pc:7003/WcfInvokeDemo.PersonService.svc?disco" />
+    <MetadataFile FileName="WcfInvokeDemo2.xsd" MetadataType="Schema" ID="a0a927ed-b87c-4037-8ca4-678ee90913eb" SourceId="1" SourceUrl="http://larissa-pc:7003/WcfInvokeDemo.PersonService.svc?xsd=xsd2" />
+    <MetadataFile FileName="PersonService.wsdl" MetadataType="Wsdl" ID="59a408c9-b532-4270-b342-0289f5779222" SourceId="1" SourceUrl="http://larissa-pc:7003/WcfInvokeDemo.PersonService.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -1,0 +1,22 @@
+<publishData>
+  <publishTarget publishUrl="http://localhost/wcfhealthcheck">
+    <file relUrl="bin/Newtonsoft.Json.dll" publishTime="11/09/2019 00:56:46" />
+    <file relUrl="Web.config" publishTime="06/27/2020 07:58:02" />
+    <file relUrl="bin/WcfInvokeDemo.pdb" publishTime="02/20/2021 12:47:20" />
+    <file relUrl="bin/WcfInvokeDemo.dll" publishTime="02/20/2021 12:47:20" />
+    <file relUrl="bin/WcfInvokeDemo.dll.config" publishTime="06/27/2020 07:58:02" />
+    <file relUrl="bin/SharedAssembly.dll" publishTime="02/20/2021 12:47:16" />
+    <file relUrl="bin/SharedAssembly.pdb" publishTime="02/20/2021 12:47:16" />
+    <file relUrl="bin/EntityFramework.dll" publishTime="01/12/2016 17:53:01" />
+    <file relUrl="WcfInvokeDemo.PersonService.svc" publishTime="02/20/2021 13:12:43" />
+  </publishTarget>
+  <publishTarget publishUrl="http://localhost:7003/">
+    <file relUrl="WcfInvokeDemo.PersonService.svc" publishTime="06/27/2020 07:54:08" />
+    <file relUrl="bin/WcfInvokeDemo.pdb" publishTime="06/27/2020 07:54:02" />
+    <file relUrl="bin/WcfInvokeDemo.dll" publishTime="06/27/2020 07:54:02" />
+    <file relUrl="bin/WcfInvokeDemo.dll.config" publishTime="06/27/2020 07:53:53" />
+    <file relUrl="Web.config" publishTime="06/27/2020 07:53:53" />
+    <file relUrl="bin/SharedAssembly.pdb" publishTime="06/27/2020 07:54:02" />
+    <file relUrl="bin/SharedAssembly.dll" publishTime="06/27/2020 07:54:02" />
+  </publishTarget>
+</publishData>

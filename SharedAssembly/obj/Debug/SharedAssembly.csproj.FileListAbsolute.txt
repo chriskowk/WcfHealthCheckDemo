@@ -1,0 +1,17 @@
+D:\WcfInvokeDemo\SharedAssembly\bin\Debug\SharedAssembly.dll
+D:\WcfInvokeDemo\SharedAssembly\bin\Debug\SharedAssembly.pdb
+D:\WcfInvokeDemo\SharedAssembly\obj\Debug\SharedAssembly.csproj.CoreCompileInputs.cache
+D:\WcfInvokeDemo\SharedAssembly\obj\Debug\SharedAssembly.dll
+D:\WcfInvokeDemo\SharedAssembly\obj\Debug\SharedAssembly.pdb
+F:\GitHub\WcfInvokeDemo-master\WcfInvokeDemo\SharedAssembly\bin\Debug\SharedAssembly.dll
+F:\GitHub\WcfInvokeDemo-master\WcfInvokeDemo\SharedAssembly\bin\Debug\SharedAssembly.pdb
+F:\GitHub\WcfInvokeDemo-master\WcfInvokeDemo\SharedAssembly\obj\Debug\SharedAssembly.csproj.CoreCompileInputs.cache
+F:\GitHub\WcfInvokeDemo-master\WcfInvokeDemo\SharedAssembly\obj\Debug\SharedAssembly.dll
+F:\GitHub\WcfInvokeDemo-master\WcfInvokeDemo\SharedAssembly\obj\Debug\SharedAssembly.pdb
+F:\GitHub\WcfInvokeDemo-master\WcfInvokeDemo\SharedAssembly\obj\Debug\SharedAssembly.csprojAssemblyReference.cache
+F:\GitHub\WcfInvokeDemo\SharedAssembly\bin\Debug\SharedAssembly.dll
+F:\GitHub\WcfInvokeDemo\SharedAssembly\bin\Debug\SharedAssembly.pdb
+F:\GitHub\WcfInvokeDemo\SharedAssembly\obj\Debug\SharedAssembly.csprojAssemblyReference.cache
+F:\GitHub\WcfInvokeDemo\SharedAssembly\obj\Debug\SharedAssembly.csproj.CoreCompileInputs.cache
+F:\GitHub\WcfInvokeDemo\SharedAssembly\obj\Debug\SharedAssembly.dll
+F:\GitHub\WcfInvokeDemo\SharedAssembly\obj\Debug\SharedAssembly.pdb
